@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:06/05/25
-## Register Number:212223220040
-## Name:jenil pio j
+# Date:19/05/25
+## Register Number:212223240128
+## Name:Priyadharshini.P
 ## Problem Title:  Virtual Herbal Garden
 SIH 1555: Create a Virtual Herbal Garden that provides an interactive, educational, and immersive experience to users, showcasing the diverse range of medicinal plants used in AYUSH (Ayurveda, Yoga & Naturopathy, Unani, Siddha, and Homeopathy).
 ## Problem Description
